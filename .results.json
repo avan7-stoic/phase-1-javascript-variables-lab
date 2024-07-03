@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-28T08:08:24.379Z",
-    "end": "2024-06-28T08:08:25.226Z",
-    "duration": 847
+    "start": "2024-07-03T08:35:31.167Z",
+    "end": "2024-07-03T08:35:31.897Z",
+    "duration": 730
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,7 +66,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
